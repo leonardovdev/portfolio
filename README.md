@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [1º] período de [Análise e Desenvolvimento de Sistemas] na [UNICID - Universidade de São Paulo]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando [Análise e Desenvolvimento de Sistemas] na [UNICID - Universidade de São Paulo]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Desenvolvimento Backend / Análise de Dados].
  
 * **Habilidades Técnicas:** [Python, Java, CSS].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
